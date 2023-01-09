@@ -8,9 +8,9 @@ Automated quantification of cell dynamics in culture using randomized ROI select
   
  - Code:
   Random ROI selection
-    Find Edges
-     Auto Threshold
-      Mask Conversion
-        Binary Outline
-          Hugh Circle Transform
-          Data in Results Table
+  Find Edges
+  Auto Threshold
+  Mask Conversion
+  Binary Outline
+  Hugh Circle Transform
+  Data in Results Table

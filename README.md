@@ -7,10 +7,12 @@ Automated quantification of cell dynamics in culture using randomized ROI select
 > Open brightfield image in Fiji
   
 ### Code:
-> Random ROI selection
+''
+Random ROI selection
 > Find Edges
 > Auto Threshold
 > Mask Conversion
 > Binary Outline
 > Hugh Circle Transform
 > Data in Results Table
+''

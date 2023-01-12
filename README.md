@@ -2,9 +2,13 @@
 
 Automated quantification of cell dynamics in culture using randomized ROI selection and hugh circles. 
 
-## Outline
-### Manual:
+### Outline
+Manual:
 > Open brightfield image in Fiji
   
-### Code:
+Code:
+> Insert code into File --> New --> Script...
+> Change Language --> Python
 > Random ROI selection --> Find Edges --> Auto Threshold --> Mask Conversion --> Binary Outline --> Hugh Circle Transform --> Data in Results Table
+
+### Must click run twice

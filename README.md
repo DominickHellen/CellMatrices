@@ -1,6 +1,6 @@
 # Automated-in-vitro-Cell-Matrices-in-Fiji
 
-Automated quantification of cell dynamics in culture using randomized ROI selection and hugh circles. 
+Automated quantification of cell #, radius, and area in culture using randomized ROI selection and hugh circles. 
 
 ![Cell Matrices](https://user-images.githubusercontent.com/88243822/212144545-cd672258-93de-40a4-9759-9a825b085531.png)
 

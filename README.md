@@ -12,6 +12,6 @@ Code: <br />
 > Insert code into File --> New --> Script... <br />
 > Change Language --> Python <br />
 > Random ROI selection --> Find Edges --> Auto Threshold --> Mask Conversion --> Binary Outline --> Hugh Circle Transform --> Data in Results Table <br />
-<br />
+
 ### Must click run twice
 

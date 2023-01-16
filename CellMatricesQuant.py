@@ -5,6 +5,7 @@ import random
 
 imp = IJ.getImage()
 
+IJ.run(imp, "8-bit", "");
 rm = RoiManager.getInstance()
 IJ.run("ROI Manager...", "");
 width = imp.getWidth()

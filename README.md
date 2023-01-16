@@ -1,9 +1,7 @@
-Must have Hough Circle Transform Installed
+Must have Hough Circle Transform Installed <br />
 link: https://imagej.net/plugins/hough-circle-transform
-
 <br />
 <br />
-
 # Automated-in-vitro-Cell-Matrices-in-Fiji
 
 Automated quantification of cell #, radius, and area in culture using randomized ROI selection and hugh circles. 

@@ -1,6 +1,6 @@
 # Automated-in-vitro-Cell-Matrices-in-Fiji #
 
-## AutomaticROIandCellArea.py
+## ROIandCellArea.py
 
 Automated quantification of cell number, radius, and area in culture using randomized ROI selection and hugh circles. 
 <br />
@@ -22,7 +22,7 @@ Code: <br />
 ### Must click run twice
 <br />
 
-##  AutomaticConfluency.py
+## Confluency.py
 Automated quantification of confluency (%area) in culture using binary masking, and particle analysis.
 <br />
 
@@ -39,7 +39,7 @@ Code: <br />
 ### better for cells that form dense patches or tight junctions
 <br />
 
-## AutomaticCellCount.py
+## CellCount.py
 Automated quantification of cell number in culture using binary masking, and particle analysis.
 <br />
 

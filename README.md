@@ -1,6 +1,6 @@
 # Automated-in-vitro-Cell-Matrices-in-Fiji #
 
-## RandomROIandCellArea.py
+## AutomaticROIandCellArea.py
 
 Automated quantification of cell number, radius, and area in culture using randomized ROI selection and hugh circles. 
 <br />

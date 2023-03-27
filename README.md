@@ -23,7 +23,6 @@ Code: <br />
 <br />
 
 ##  AutomaticConfluency.py
-<br />
 Automated quantification of confluency (%area) in culture using binary masking, and particle analysis.
 <br />
 
@@ -41,7 +40,6 @@ Code: <br />
 <br />
 
 ## AutomaticCellCount.py
-<br />
 Automated quantification of cell number in culture using binary masking, and particle analysis.
 <br />
 
